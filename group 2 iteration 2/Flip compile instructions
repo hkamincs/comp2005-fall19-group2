@@ -1,0 +1,11 @@
+To compile:
+
+Ensure folder hierarchy is maintained
+
+open terminal/command prompt
+
+Compile all java files with:
+javac *. java
+
+To run use code:
+java main
