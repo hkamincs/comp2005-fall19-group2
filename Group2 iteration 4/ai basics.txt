@@ -1,0 +1,11 @@
+Random rn = new Random();
+int randx = rn.nextInt(20);
+int randy = rn.nextInt(20);
+if(cpu.getDifficulty==easy){
+int randTile = rn.nextInt(15);
+}
+else if(cpu.getDifficulty==medium)
+{
+int rand tile = rn.nextInt(7);
+}
+placePiece(randx, randy);
