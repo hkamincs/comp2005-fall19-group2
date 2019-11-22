@@ -11,10 +11,12 @@ Things that works!...
 
 (4) Player may chose to surrender his/her game by clicking on 'surrender' button
 
+(5) Save and Load will read from files in the save folder and create files in same format. (Blokus_FR version)
+
 
 ***TRIED WORKING ON ****
 
-We tried implementing save and load function however, we are getting and exception error. "Code in the final release itself"
+
 We also tried to implement AI however we werent sucessfull there aswell please see "ai basics.txt for the code" 
 
 
