@@ -1,0 +1,25 @@
+For our game Group #2:
+
+Things that works!...
+
+(1) You will able to place a piece. However, we werent unsucessfull in implementing     legal placement of the piece.(However, Placing a piece out the grid gives an     error message stating "Piece must be placed entirely") 
+
+(2) Player can rotate a piece by scrolling the mouse.
+    Player can flip a piece by cliking right or left.
+
+(3) Player may chose to pass his/her turn by clicking on 'pass' button
+
+(4) Player may chose to surrender his/her game by clicking on 'surrender' button
+
+
+***TRIED WORKING ON ****
+
+We tried implementing save and load function however, we are getting and exception error. 
+
+
+
+
+
+
+
+ 
