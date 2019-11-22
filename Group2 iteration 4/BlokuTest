@@ -1,0 +1,23 @@
+package blokus;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class BlokusPlayerTest {
+
+	@Test
+	void t
+testgetScore() {
+		BlokusPlayer menu = new BlokusPlayer();
+	BlokusPlayer.getScore(10);
+		
+		assertEquals(BlokusPlayer.getScore(),10);
+	}
+
+
+}
